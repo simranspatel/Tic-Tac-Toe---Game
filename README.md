@@ -1,7 +1,7 @@
 # Tic-Tac-Toe---Game
 
 
- <p> To go to my website, <a href="https://simranspatel.github.io/Tic-Tac-Toe---Game/)">click here</a>.</p>
+ <p> To go to my website, <a href="https://simranspatel.github.io/Tic-Tac-Toe---Game">click here</a>.</p>
 <h4>Sneak peek at the webs</h4>
 <img src="https://i.imgur.com/LqXPTWe.png" >
 <br><hr><br>
